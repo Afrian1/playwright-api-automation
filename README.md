@@ -35,14 +35,16 @@ playwright-api-automation/
 │   └── workflows/
 │       └── api-tests.yml
 ├── test-data/
+│   └── user.data.ts
 ├── tests/
 │   └── api/
 │       ├── users.get.spec.ts
 │       ├── users.post.spec.ts
 │       └── users.put.spec.ts
 ├── .gitignore
-├── package.json
+├── README.md
 ├── package-lock.json
+├── package.json
 ├── playwright.config.ts
 └── tsconfig.json
 ```
